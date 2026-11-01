@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.2
+fastapi>=0.115
+scikit-learn>=1.5
+uvicorn[standard]>=0.30
+yfinance>=0.2.50
